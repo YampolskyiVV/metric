@@ -1,0 +1,2 @@
+# metric
+Simple metric script

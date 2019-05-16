@@ -1,7 +1,7 @@
 # metric
-Simple metric script to get memory and CPU metric.
+Simple metric python script to get memory and CPU metric.
 
-##Usage
+## Usage
 CPU metric
 ```
 $ python metric cpu
@@ -11,7 +11,7 @@ Memory metric
 $ python metric mem
 ```
 
-##Environment
+## Environment
 Python 2.7
 Script use psutil python library. Install psutil
 ```

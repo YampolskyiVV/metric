@@ -24,10 +24,10 @@ Buil and run docker container to get basic CPU and memory metric
 Base Docker Image
   ubuntu:latest
 Additional packages
-   ⋅⋅* make
-   ⋅⋅* python2.7
-   ⋅⋅* python-pip
-   ⋅⋅* psutil python library
+   * make
+   * python2.7
+   * python-pip
+   * psutil python library
 Copy metric script into docker image
 
 ## Build docker image
